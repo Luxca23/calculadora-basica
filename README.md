@@ -1,2 +1,3 @@
 # calculadora-basica
 projeto comum de uma calculadora!
+Ainda em fase de criação...
